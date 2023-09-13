@@ -9,3 +9,7 @@
 header:
     caozuo1
     caozuo2
+footer:
+    caozuo
+    caozuo
+    
